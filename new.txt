@@ -1,0 +1,4 @@
+Name: Khan Alena
+Age: 28
+Number of pets: 1
+Future desired salary: 2000$

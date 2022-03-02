@@ -1,0 +1,11 @@
+Skills:
+	1. Theory
+	2. HTTP Codes
+	3. JSON Structure
+	4. XML Structure
+	5. API Testing
+	6. DevTools
+	7. Postman
+	8. Charles
+	9. Fiddler
+	10. SQL
